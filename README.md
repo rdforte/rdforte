@@ -1,1 +1,3 @@
-Building great systems is what I do best, through utilising my knowledge of various design patterns and techniques coupled with my bigger picture mentality, and ability to think outside the box. Oh and I forgot to mention I love Tacos 🌮
+I'm a self-taught software engineer specialising in system architecture and the development of distributed systems. From working in small startups to large enterprise organisations I have a range of experience across both the Frontend and Backend.
+
+Want to learn more? check out [ryanforte.tech](https://ryanforte.tech)
