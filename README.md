@@ -1,3 +1,5 @@
-I'm a self-taught software engineer specialising in system architecture and the development of distributed systems. From working in small startups to large enterprise organisations I have a range of experience across both the Frontend and Backend.
+Michael Jordan once said "Get the fundamentals down and the level of everything you do will rise". As Software Engineers like professional athletes I believe in order to be trully great at something we must master our fundamentals. In programming this means having a firm grasp of the fundamental concepts of the underlying systems we are working on top of. As a backend engineer this relates to the programming language we are using, the networks that manage the transfer of data between our services, right down to the OS we use and the hardware we run our code on. There will always be new abstractions and fancy new frameworks but this key funamental knowledge is something we will always refer back to in our day to day work as Software Engineers especially if we aim to solve more complex problems and do technically innovative work.
 
-Want to learn more? check out [ryanforte.tech](https://ryanforte.tech)
+My source of inspiration for how I approach software comes from [Julia Evans](https://jvns.ca/about/) and [Michael Jordan](https://en.wikipedia.org/wiki/Michael_Jordan)
+
+Want to learn more? check me out [ryanforte.tech](https://ryanforte.tech)
